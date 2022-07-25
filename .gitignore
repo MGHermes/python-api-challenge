@@ -1,0 +1,9 @@
+# Adding config.py file.
+api_keys.py
+
+# Ignore DS_Store
+.DS_Store
+
+# More items to ignore
+API_practice.ipynb
+random_numbers.ipynb
